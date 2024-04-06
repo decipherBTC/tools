@@ -8,8 +8,11 @@ https://wiki.gamedetectives.net/index.php?title=ARG_Toolbox - ARG toolbox
 https://www.browserling.com - ALOT of tools
 https://www.aperisolve.com - very good solver
 https://www.convertbinary.com/text-to-binary/ - binary text / text to binary
+
 https://www.duplichecker.com/image-to-text-converter.php - alot of tools!
+
 https://www.boxentriq.com/code-breaking/text-analysis - Toooool anagram
+
 https://www.boxentriq.com - Ciphers, text tools, analysis tools, modern ciphers, Steganography, Encodings, Math, Alphabets, Other
 
 
