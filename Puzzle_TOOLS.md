@@ -1,3 +1,13 @@
+### TRACKERS
+
+https://www.mooncritic.com/puzzles/ongoing-puzzles-tracker/
+
+-
+-
+-
+-
+
+
 https://www.massmux.com/wp-content/uploads/2023/04/BIP39-Binary.pdf - all bip 39 with binary and index
 https://ouhouhsami.github.io/online-spectrogram/ - audio spectorgram 
 https://crackstation.net - Crack hashes online - all hashes check with their database of hashes
@@ -18,3 +28,5 @@ https://www.boxentriq.com - Ciphers, text tools, analysis tools, modern ciphers,
 
 ## ANAGRAM TOOLS
 https://www.boxentriq.com/code-breaking/anagram-solver
+
+
